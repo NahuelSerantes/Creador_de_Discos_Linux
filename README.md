@@ -60,7 +60,7 @@ sudo apt install xfsprogs btrfs-progs
 
 ## Instalación
 Clonar el repositorio:
-git clone https://github.com/TU-USUARIO/creador-discos-linux-bash.git
+git clone https://github.com/TU-USUARIO/Creador_de_Discos_Linux.git
 
 Entrar al directorio:
 cd creador-discos-linux-bash
